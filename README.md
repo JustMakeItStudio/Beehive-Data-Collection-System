@@ -2,12 +2,12 @@
 Collects temperature, humidity, sound, low frame rate video, and weight. These measurements are collected from a beehive and a camera trap.
 
 ### System required
-* Raspberry pi 4 or Raspberry pi Zero 2W
-* Raspbian OS
+* Raspberry pi 4
+* Raspberry Pi OS 64 bit with Desktop
 
 
 ### How to use
-Step 1. Get the raspberry updated
+Step 1. Get the raspberry updated, enable the camera, ssh, vnc, spi
 ```sh
 sudo apt update
 sudo apt upgrade
@@ -25,14 +25,13 @@ pip3 install pipreqs
 ```
 Step4. Clone the directory to your pc with
 ```sh
-git clone https://github.com/JustMakeItStudio/Data-Aquisition-System-Raspberry-pi-with-Python3
+git clone https://github.com/JustMakeItStudio/Beehive-Data-Collection-System
 ```
 Step5. Install the dependencies with
 *This doesn't work perfectly, it all came apart when I tried to install the pyaudio library
 ```sh
 pip3 install -r requirements.txt
+Still needs to be updated.
 ```
 
 Step6. Run the Controller.py file
-
-https://makersportal.com/blog/2018/8/23/recording-audio-on-the-raspberry-pi-with-python-and-a-usb-microphone
