@@ -1,6 +1,7 @@
 # Data-Aquisition-System-Raspberry-pi-with-Python3
 Collects temperature, humidity, sound, low frame rate video, and weight. These measurements are collected from a beehive and a camera trap.
 
+Information on the ownership and who is involved in this project take a look here: https://makerspace.cyens.org.cy/portfolio/behive-project/
 ### System required
 * Raspberry pi 4
 * Raspberry Pi OS 64 bit with Desktop
