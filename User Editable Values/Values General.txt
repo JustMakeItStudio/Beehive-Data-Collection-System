@@ -1,0 +1,7 @@
+hiveID = 'TEST'
+debug = True
+wifiName = 'wifiname' 
+wifiPassword = 'password'
+phoneNumbers = [99999999, 99999999]
+phoneNumbersKeys = [99999, 99999]
+storageWarningThreshold = 90

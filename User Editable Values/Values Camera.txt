@@ -1,0 +1,5 @@
+framerate = 6
+imageWidth = 1280
+imageHeight = 720
+startTimeVideo = 7
+endTimeVideo = 17

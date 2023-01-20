@@ -1,0 +1,3 @@
+timeDurationAudio = 1
+timeIntervalTemperatureAndHumidity = 60*15
+timeIntervalWeight = 60*60*2

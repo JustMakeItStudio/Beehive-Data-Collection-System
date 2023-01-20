@@ -1,0 +1,6 @@
+timeDurationAudio = 1
+timeIntervalTemperatureAndHumidity = 60*15
+timeIntervalWeight = 60*60*2
+sampRate = 44100
+nameOfMicrophoneDevice = 'Sound Blaster Play! 3'
+roundingAmountOfEachSample = 5
